@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About BetBetter](README.md)
+* [About OsmosisCasino](README.md)
 
 ## Info
 

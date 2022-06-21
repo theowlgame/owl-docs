@@ -1,6 +1,6 @@
 # Fairness & Certificates
 
-BetBetter only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
+OsmosisCasino only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
 
 &#x20;
 
