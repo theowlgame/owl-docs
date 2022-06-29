@@ -112,7 +112,7 @@ You warrant not to use any form of VPN or other methods or program fit to hide y
 
 3.2.13 When depositing using cryptocurrencies, kindly ensure you're depositing an amount greater than or equal to, the minimum deposit limit for that particular currency, as displayed on the deposit page of your account. Deposits below this limit cannot be processed by our payment processor and will not reach your account and nor can it be returned back to you.
 
-3.2.14 All payments with Paysafe are made via Cyber Galaxy B.V.
+3.2.14 All payments with Paysafe are made via Starverse B.V.
 
 3.3 WITHDRAWALS FROM YOUR MEMBER ACCOUNT
 
