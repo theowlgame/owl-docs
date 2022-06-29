@@ -1,8 +1,8 @@
-# About OsmosisCasino
+# About RichBitz
 
-#### **OsmosisCasino: Leading Crypto Casino Solution Web 3.0**
+#### **RichBitz: Leading Crypto Casino Solution Web 3.0**
 
-OsmosisCasino aims to provide seamless, fun, profitable gaming experience on most EVM compatible networks, near, and terra networks.&#x20;
+RichBitz aims to provide seamless, fun, profitable gaming experience on most EVM compatible networks, near, and terra networks.&#x20;
 
 
 

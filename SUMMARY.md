@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About OsmosisCasino](README.md)
+* [About RichBitz](README.md)
 
 ## Info
 
