@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About RichBitz](README.md)
+* [Downloadable Version](downloadable-version.md)
 
 ## Info
 
