@@ -1,6 +1,6 @@
 # Fairness & Certificates
 
-RichBitz only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
+ShibaBets only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
 
 &#x20;
 
