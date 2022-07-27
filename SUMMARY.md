@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About RichBitz](README.md)
+* [About ShibaBets](README.md)
 
 ## Info
 
