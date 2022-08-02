@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About ShibaBets](README.md)
+* [About Crazybit](README.md)
 
 ## Info
 
