@@ -1,6 +1,6 @@
 # Bonus Terms and Conditions
 
-1. When you claim the bonus, it will be added to your Crazybit wallet, symbol is 'USDo'.
+1. When you claim the bonus, it will be added to your XOCasino wallet, symbol is 'USDo'.
 2. The USDo credit you get can only be used to play slots game.
 3. If you reach wagering requirement, you can withdraw USDo to normal USDt wallet. Once you request a withdrawal, your USDo credit balance will be **zero out**. No winnings accrued in connection with any Free Bonus may be withdrawn/transferred until the wagering requirements have been met.
 4. The maximum winnings that will be paid out resulting from a bonus or free spins that you've gotten from us for free, will be 100 USDT.  Any winnings exceeding this amount will be **forfeited**.&#x20;

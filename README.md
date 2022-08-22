@@ -1,4 +1,4 @@
-# About Crazybit
+# About XOCasino
 
 #### **Crazybit: Leading Crypto Casino Solution Web 3.0**
 
