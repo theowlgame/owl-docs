@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About XOCasino](README.md)
+* [About Crazybit](README.md)
 
 ## Info
 
