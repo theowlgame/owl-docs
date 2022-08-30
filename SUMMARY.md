@@ -7,6 +7,7 @@
 * [Supported Tokens](info/supported-tokens.md)
 * [Fairness & Certificates](info/certificates.md)
 * [Terms and Condition](info/terms-and-condition.md)
+* [Affiliate Terms and Conditions](info/affiliate-terms-and-conditions.md)
 * [Bonus Terms and Conditions](info/bonus-terms-and-conditions.md)
 * [Privacy Policy](info/privacy-policy.md)
 * [AML Policy](info/aml-policy.md)
