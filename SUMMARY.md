@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Crazybit](README.md)
+* [About Moonbet](README.md)
 
 ## Info
 
