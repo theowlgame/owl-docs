@@ -1,8 +1,5 @@
-# About Moonbet
+# About DogeChainCasino
 
-#### **Moonbet: Leading Crypto Casino Solution Web 3.0**
+#### **DogeChainCasino: Leading Crypto Casino Solution Web 3.0**
 
-Moonbet aims to provide seamless, fun, profitable gaming experience on most EVM compatible networks, near, and terra networks.&#x20;
-
-
-
+DogeChainCasino aims to provide seamless, fun, profitable gaming experience on DogeChain.
