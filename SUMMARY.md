@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Moonbet](README.md)
+* [About WaxCasino](README.md)
 
 ## Info
 
