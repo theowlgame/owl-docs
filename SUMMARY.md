@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About WaxCasino](README.md)
+* [About TerraCasino](README.md)
 
 ## Info
 

@@ -4,7 +4,7 @@
 
 &#x20;As a data controller, we have a legal obligation under gambling regulations to process personal data from players in order to allow them to participate in games and provide them with ancillary services. This Privacy Policy explains what personal data we collect from players, why we collect it and how we utilise it.
 
-If you have any other questions regarding this Privacy Policy or protection of your data, please feel free to contact our Data Protection Officer at team@WaxCasino.com.
+If you have any other questions regarding this Privacy Policy or protection of your data, please feel free to contact our Data Protection Officer at team@TerraCasino.com.
 
 By registering a Player Account with the Website you confirm your consent with this Privacy Policy. If you do not agree with the terms of this Privacy Policy and do not wish to provide us with the personal information we require, please do not use this website.
 
@@ -52,7 +52,7 @@ i) Conducting research and statistical analysis of aggregated data.
 
 &#x20;Unless you have elected not to receive promotional materials, we may use your Personal Information, including your email address and phone number, to send you marketing communications regarding products, services and promotions. This may include information about products and services from our business partners, such as casino game providers.
 
-Whenever you decide to stop receiving such marketing and advertising material, you may opt out of this in your Player Account settings or by contacting our customer support at support@WaxCasino.com
+Whenever you decide to stop receiving such marketing and advertising material, you may opt out of this in your Player Account settings or by contacting our customer support at support@TerraCasino.com
 
 Additionally, note that by accepting any contest prize or winnings from us, you consent to the use of your name and/or nickname for advertising and promotional purposes without additional compensation, except where prohibited by law.
 

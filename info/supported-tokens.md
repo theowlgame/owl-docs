@@ -1,6 +1,6 @@
 # Supported Tokens
 
-WaxCasino currently support BTC, ETH, Solana BSC, Polygon, OEC, AVAX, xDAI, etc. You can check the complete supported tokens on website.&#x20;
+TerraCasino currently support BTC, ETH, BSC, Polygon, OEC, AVAX, xDAI, etc. You can check the complete supported tokens on website.&#x20;
 
 For Bitcoin, we support 0 confirmation deposit now as long as your fee is greater than 4.979 sat/b. Otherwise, deposit will be credited after 1 confirmation.&#x20;
 
@@ -10,7 +10,7 @@ Tokens are categorised as core tokens and community tokens. You can check the to
 
 We also list tokens for other DEFI projects too. These are community tokens.&#x20;
 
-For communities who are partnered with WaxCasino, their tokens can have customised limits. For communities who do not have a will to work with us, their tokens are only supported for players who wanna try out our platform in order to protect the community. These tokens have lower bet limit and withdraw limit. Also, since most community tokens do not have good liquidity and high price volatility, their price is quoted on a 24-hr TWAP.
+For communities who are partnered with TerraCasino, their tokens can have customised limits. For communities who do not have a will to work with us, their tokens are only supported for players who wanna try out our platform in order to protect the community. These tokens have lower bet limit and withdraw limit. Also, since most community tokens do not have good liquidity and high price volatility, their price is quoted on a 24-hr TWAP.
 
 ### Withdrawal Limits
 
