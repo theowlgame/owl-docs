@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About TerraCasino](README.md)
+* [LUNC Burn](lunc-burn.md)
 
 ## Info
 
