@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About TerraCasino](README.md)
+* [About CosmosHubCasino](README.md)
 
 ## Info
 

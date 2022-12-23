@@ -1,6 +1,6 @@
 # Fairness & Certificates
 
-TerraCasino only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
+CosmosHubCasino only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
 
 &#x20;
 

@@ -1,9 +1,9 @@
 # Bonus Terms and Conditions
 
-1. When you claim the bonus, it will be added to your TerraCasino wallet, symbol is 'USDo'.
+1. When you claim the bonus, it will be added to your CosmosHubCasino wallet, symbol is 'USDo'.
 2. The USDo credit you get can only be used to play slots game.
 3. If you reach wagering requirement, you can withdraw USDo to normal USDt wallet. Once you request a withdrawal, your USDo credit balance will be **zero out**. No winnings accrued in connection with any Free Bonus may be withdrawn/transferred until the wagering requirements have been met.
-4. The maximum winnings that will be paid out resulting from a bonus or free spins that you've gotten from us for free, will be 100 USDT.  Any winnings exceeding this amount will be **forfeited**.&#x20;
+4. The maximum winnings that will be paid out resulting from a bonus or free spins that you've gotten from us for free, will be 50 USDT.  Any winnings exceeding this amount will be **forfeited**.&#x20;
 5. There is a max bet limit for betting using the bonus USDo. If you bet bigger than the bet limit, your bet will be rejected.&#x20;
 6. Please note that different games contribute to a different percentage towards the wagering requirements. Slots contribute 100% (aside from the excluded ones below), while house games contribute 50%.
 7. The USDo credit you claim has an expiration, once reached expiration, if you haven't meet the wager requirement, or you haven't request a withdrawal, whether or not your USDo credit has profits or not, the remaining USDo credit balance will be zero out.&#x20;
