@@ -68,7 +68,7 @@ You warrant not to use any form of VPN or other methods or program fit to hide y
 
 3.4 As part of the registration process You will have to choose Your username and password for Your login into the Website. It is Your sole and exclusive responsibility to ensure that Your login details are kept securely. You must not disclose Your login details to anyone. CosmosHubCasino is not responsible for any abuse or misuse of Your Member Account by third parties due to Your disclosure, whether intentional or accidental, whether active or passive, of your login details to any third party.
 
-3.5 CosmosHubCasino reserves the right to refuse to register an Account or close Your Account. However all virtual funds within Your Account will be returned and all contractual obligations already made honoured.
+3.5 CosmosHubCasino reserves the right to refuse to register an Account or close Your Account. Access to casino or sportsbook platform is intended exclusively for recreational. CosmosHubCasino reserves the right to cancel wagers or close any accounts deemed as non-recreational players at their own discretion.
 
 3.6 CosmosHubCasino prohibits player collusion and do not allow any kind of robots and programmed devices to participate in game play. CosmosHubCasino reserves the right to void any game play which results from the use of robots and/or programmed devices.
 
