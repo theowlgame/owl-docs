@@ -1,16 +1,16 @@
 # Terms and Condition
 
-## NOTICE TO RESIDENTS OF CHINA&#x20;
+## NOTICE TO RESIDENTS OF CHINA
 
-THE RIGHTS ARE NOT BEING OFFERED OR SOLD AND MAY NOT BE OFFERED OR SOLD, DIRECTLY OR INDIRECTLY, WITHIN THE PEOPLE’S REPUBLIC OF CHINA (FOR SUCH PURPOSES, NOT INCLUDING THE HONG KONG AND MACAU SPECIAL ADMINISTRATIVE REGIONS OR TAIWAN), EXCEPT AS PERMITTED BY THE SECURITIES AND OTHER LAWS AND REGULATIONS OF THE PEOPLE’S REPUBLIC OF CHINA.&#x20;
+THE RIGHTS ARE NOT BEING OFFERED OR SOLD AND MAY NOT BE OFFERED OR SOLD, DIRECTLY OR INDIRECTLY, WITHIN THE PEOPLE’S REPUBLIC OF CHINA (FOR SUCH PURPOSES, NOT INCLUDING THE HONG KONG AND MACAU SPECIAL ADMINISTRATIVE REGIONS OR TAIWAN), EXCEPT AS PERMITTED BY THE SECURITIES AND OTHER LAWS AND REGULATIONS OF THE PEOPLE’S REPUBLIC OF CHINA.
 
-## GENERAL NOTICE&#x20;
+## GENERAL NOTICE
 
 THIS SECURITY IS NOT BEING OFFERED OR DISTRIBUTED TO ANY RESIDENT OF OR ANY PERSON LOCATED OR DOMICILED WHERE SUCH OFFERING IS PROHIBITED, RESTRICTED OR UNAUTHORIZED IN ANY FORM OR MANNER WHETHER IN FULL OR IN PART UNDER THE LAWS, REGULATORY REQUIREMENTS OR RULES IN SUCH JURISDICTION.
 
 ## TERMS & CONDITIONS GENERAL
 
-&#x20;1.1 TerraCasino is a crypto only casino that supports no fiat currency.
+1.1 TerraCasino is a crypto only casino that supports no fiat currency.
 
 1.2 These Terms and Conditions (“T\&C”) apply to the usage of the Games through TerraCasino (“Website”) through related enabling internet, mobile or other platforms by you (“You” or “the Player”).
 
@@ -46,7 +46,9 @@ Players from the following countries are not eligible to win any jackpots from j
 
 1.14 Players from Canada are not eligible to play games provided by NYX.
 
-## ELIGIBILITY TO USE TerraCasino SERVICES:&#x20;
+1.15 Players from Russia, Ukraine are not eligible to play games provided by Betby, the sportsbook provider.&#x20;
+
+## ELIGIBILITY TO USE TerraCasino SERVICES:
 
 2.1 You may participate in any of the Games if and only if:
 
@@ -58,11 +60,11 @@ Players from the following countries are not eligible to win any jackpots from j
 
 ## YOUR MEMBER ACCOUNT
 
-&#x20;3.1 In order for you to be able to place wagers using any of the Website, you must first register with TerraCasino and open an account (“Member Account”).
+3.1 In order for you to be able to place wagers using any of the Website, you must first register with TerraCasino and open an account (“Member Account”).
 
 3.2 You are allowed to have only one Member Account. Only one Account for each household, IP, PC is allowed. If you attempt to open more than one Member Account, all accounts you try to open may be blocked or closed and any bets may be voided. Also any returns, deposits, winnings or bonuses which you have gained or accrued during such time as the Duplicate Account was active will be forfeited by you and may be reclaimed by us, and you will return to us on demand any such funds which have been withdrawn from the Duplicate Account. If you wish to open another account, you may do so by contacting the Manager at team@TerraCasino.io. If a new account is opened, the old account will be closed. If you notice that you have more than one registered Member Account you must notify us immediately. Failure to do so may lead to your Member account being blocked for access.
 
-You warrant not to use any form of VPN or other methods or program fit to hide your IP or your state of origin. The usage of a VPN is only allowed with written consent from the support team. Users or customers found to use a VPN without the companies consent will be excluded from all services on the website, and all remaining funds will be frozen indefinitely. You acknowledge that you are solely responsible for all losses that might occur to you over your VPN usage without the companies consent, including but not limited to financial losses and the loss of your account on the website.&#x20;
+You warrant not to use any form of VPN or other methods or program fit to hide your IP or your state of origin. The usage of a VPN is only allowed with written consent from the support team. Users or customers found to use a VPN without the companies consent will be excluded from all services on the website, and all remaining funds will be frozen indefinitely. You acknowledge that you are solely responsible for all losses that might occur to you over your VPN usage without the companies consent, including but not limited to financial losses and the loss of your account on the website.
 
 3.3 You must enter all mandatory information requested into your registration form, including a valid e-mail address; if you do not enter a valid email address, we will be unable to help you recover any “forgotten passwords”. It is your sole responsibility to ensure that the information you provide is true, complete and correct.
 
@@ -140,7 +142,7 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 3.3.11 Players depositing in USD or CAD can only withdraw money via e-wallets such as EcoPayz, Interac, Instadebit, iDebit, Mifinity or Muchbetter. Please note a minimum deposit via these payment options as well as verification is required, to activate them for withdrawal.
 
-3.3.12 If you withdraw to your Web 3.0 wallet, we do not charge any withdrawal fee. You only need to pay for the network gas fee. If you withdraw to non Web 3.0 wallet, we will charge a flat-rate fee.&#x20;
+3.3.12 If you withdraw to your Web 3.0 wallet, we do not charge any withdrawal fee. You only need to pay for the network gas fee. If you withdraw to non Web 3.0 wallet, we will charge a flat-rate fee.
 
 3.3.13 We reserve the right to make a phone call to the number provided in your user account, which at our own discretion can be a necessary part of the KYC procedure. Withdrawals may be terminated until the account is fully verified. We will make reasonable efforts trying to contact you regarding the withdrawal of the funds, but if we are not able to reach you (by email or phone) in two (2) weeks as from the date of the request for withdrawal, account will be locked, since you have failed to pass the KYC procedure.
 
@@ -166,7 +168,7 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## YOUR OBLIGATIONS AS A PLAYER:
 
-&#x20;4.1 You hereby declare and warrant that:
+4.1 You hereby declare and warrant that:
 
 4.1.1 You are over 18 years of age or such higher minimum legal age of majority as stipulated if the jurisdiction of Your residence (e.g. Estonia – 21 years) and, under the laws applicable to You, legally allowed to participate in the Games offered on the Website.
 
@@ -220,7 +222,7 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## PRIVACY POLICY
 
-&#x20;5.1 You hereby acknowledge and accept that it is necessary for TerraCasino to collect and otherwise use Your personal data in order to allow You access and use of the Website and participation in the Games.
+5.1 You hereby acknowledge and accept that it is necessary for TerraCasino to collect and otherwise use Your personal data in order to allow You access and use of the Website and participation in the Games.
 
 5.2 TerraCasino hereby acknowledges that in collecting Your personal details as stated in the previous provision, We are bound by the Data Protection legislation. TerraCasino will protect your personal information and respect your privacy in accordance with best business practices and applicable laws.
 
@@ -238,7 +240,7 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## COMPLAINTS
 
-&#x20;6.1 You may contact our customer service according to the instructions located at the Website to give us any complaints regarding our services.
+6.1 You may contact our customer service according to the instructions located at the Website to give us any complaints regarding our services.
 
 6.2 Complaints are handled in the support department and escalated in the organization of TerraCasino in the case that support personnel do not solve the case immediately. The player shall be informed about the state of the complaint to a reasonable level.
 
@@ -254,7 +256,7 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## LIMITATION OF LIABILITY
 
-&#x20;7.1 You enter the Website and participate in the Games at your own risk. The Website and the Games are provided without any warranty whatsoever, whether express or implied.
+7.1 You enter the Website and participate in the Games at your own risk. The Website and the Games are provided without any warranty whatsoever, whether express or implied.
 
 7.2 Without prejudice to the generality of the preceding provision, TerraCasino, its directors, employees, partners, service providers:
 
@@ -274,13 +276,13 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## BREACHES, PENALTIES AND TERMINATION
 
-&#x20;8.1 If You breach any provision of these T\&C or TerraCasino has a reasonable ground to suspect that You have breached them, TerraCasino reserves the right not to open, suspend, close Your Member Account, withhold payment of your winnings and apply such funds on account of any damages due by You.
+8.1 If You breach any provision of these T\&C or TerraCasino has a reasonable ground to suspect that You have breached them, TerraCasino reserves the right not to open, suspend, close Your Member Account, withhold payment of your winnings and apply such funds on account of any damages due by You.
 
 8.2 You acknowledge that TerraCasino shall be the final decision-maker of whether you have violated TerraCasino’s rules, terms or conditions in a manner that results in your suspension or permanent barring from participation in our site.
 
 ## INTELLECTUAL PROPERTY RIGHTS
 
-&#x20;9.1 All website design, text, graphics, music, sound, photographs, video, the selection and arrangement thereof, software compilations, underlying source code, software and all other material contained within the Website are subject to copyright and other proprietary rights which are either owned by us or used under license from third party rights owners. To the extent that any material contained on the Website may be downloaded or printed then such material may be downloaded to a single personal computer only and hard copy portions may be printed solely for your own personal and non-commercial use.
+9.1 All website design, text, graphics, music, sound, photographs, video, the selection and arrangement thereof, software compilations, underlying source code, software and all other material contained within the Website are subject to copyright and other proprietary rights which are either owned by us or used under license from third party rights owners. To the extent that any material contained on the Website may be downloaded or printed then such material may be downloaded to a single personal computer only and hard copy portions may be printed solely for your own personal and non-commercial use.
 
 9.2 Under no circumstances shall the use of the Website grant to any user any interest in any intellectual property rights (for example copyright, know-how or trademarks) owned by us or by any third party whatsoever.
 
@@ -288,29 +290,29 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## SEVERABILITY
 
-&#x20;10.1 If any provision of these T\&C is held to be illegal or unenforceable, such provision shall be severed from these T\&C and all other provisions shall remain in force unaffected by such severance.
+10.1 If any provision of these T\&C is held to be illegal or unenforceable, such provision shall be severed from these T\&C and all other provisions shall remain in force unaffected by such severance.
 
 ## INACTIVE/DORMANT PLAYER ACCOUNTS
 
-&#x20;11.1 This section applies for registered account only. If no transaction has been made to your player account at TerraCasino in thirty months, your account will be deemed as dormant and we will return your balance back to you. We'll make reasonable efforts trying to contact you regarding the withdrawal of the funds, but if we are not able to reach you, the funds will be retained by TerraCasino Casino as an admin fee.
+11.1 This section applies for registered account only. If no transaction has been made to your player account at TerraCasino in thirty months, your account will be deemed as dormant and we will return your balance back to you. We'll make reasonable efforts trying to contact you regarding the withdrawal of the funds, but if we are not able to reach you, the funds will be retained by TerraCasino Casino as an admin fee.
 
 11.2 An inactive Account is a Player Account which a player has not logged into or logged out of for twelve consecutive months. If your Player Account is deemed to be inactive, TerraCasino reserves the right to charge a monthly administrative fee of €10 or the equivalent in another currency (or the current balance of your Player Account, if less) as long as the balance of your Player Account remains positive. You authorize TerraCasino to debit this fee from your Player Account on the beginning of the month following the day on which your Player Account is deemed inactive, and on the beginning of every subsequent month that your Player Account remains inactive. TerraCasino will stop deducting the fee if the account balance is zero or if the account is re-activated.
 
 ## ASSIGNMENT
 
-&#x20;12.1 TerraCasino reserves the right to assign or otherwise lawfully transfer this Agreement. You shall not assign or otherwise transfer this Agreement.
+12.1 TerraCasino reserves the right to assign or otherwise lawfully transfer this Agreement. You shall not assign or otherwise transfer this Agreement.
 
 ## APPLICABLE LAW AND JURISDICTION
 
-&#x20;13.1 The Terms and Conditions stipulated below are effective as of September 22nd, 2014. Before using the website TerraCasino, please read Terms and Conditions carefully. The fact of using the website confirms your consent with the Terms and Conditions.
+13.1 The Terms and Conditions stipulated below are effective as of September 22nd, 2014. Before using the website TerraCasino, please read Terms and Conditions carefully. The fact of using the website confirms your consent with the Terms and Conditions.
 
 13.2 Do you have any questions regarding the terms and conditions? Do they sound very bureaucratic and confusing? They're not meant to, but if you feel that way, please contact our support heroes via live chat or team@TerraCasino.io. They're available 24 hours a day, 7 days a week, even on Christmas Eve, so you might as well come and say hello!
 
-## ADVANTAGE PLAY&#x20;
+## ADVANTAGE PLAY
 
 14.1 Should the Casino become aware of any user who has accepted the bonus or a promotion with sole purpose of creating a positive expected value on bonus return by using known practices aimed at securing a cash out of said bonus or at any way try to take advantage of bonuses received by TerraCasino, then TerraCasino will enforce immediate confiscation of winnings and closure of the account with the right to withhold any further withdrawals. An example of advantage play would be delaying any game round in any game, including free spins features and bonus features, to a later time when you have no more wagering requirement and/or performing new deposit(s) while having free spins features or bonus features still available in a game, the Casino reserves the right to withhold any withdrawals and/or confiscate all winnings.
 
-## REFUND POLICY&#x20;
+## REFUND POLICY
 
 15.1 If you wish to request a refund, you need to do so within the first 24 hours of the transaction in question for it to be considered (or within 30 calendar days if you claim that another person has gained access to your account).
 
@@ -318,7 +320,7 @@ If you’ve made credit card deposits to your account, we reserve the right to p
 
 Prior to any amounts being processed, all bonuses and winnings in your balance will be removed prior to calculation of the refund amount. If it’s the case where any credit card purchases are deemed to carry a bigger than necessary risk for security or legal reasons, by your payment processor or the casino, we will initiate refunds of the transactions in questions back to the card, and notify the appropriate authorities and parties.
 
-## ANTI-FRAUD POLICY&#x20;
+## ANTI-FRAUD POLICY
 
 16.1 The Company has a strict anti-fraud policy and utilizes various anti-fraud tools and techniques. If the player is suspected of fraudulent actions including, but not limited to:
 
@@ -360,10 +362,10 @@ Prior to any amounts being processed, all bonuses and winnings in your balance w
 
 16.3.6 any other actions which may damage the Casino;
 
-## NON TRANSFERABILITY&#x20;
+## NON TRANSFERABILITY
 
 17.1 You can not assign, pledge or transfer ownership under any title whatsoever to claims arising from these Terms and Conditions, the use of the Website or participation in the Games against the Casino without consent of the Casino. This prohibition is designed as a non-transferability clause ex article 83 paragraph 2 of book 3 of the Civil Code and includes the transfer of any assets of value of any kind, including but not limited to ownership of accounts, winnings, deposits, bets, rights and/or claims in connection with these assets, legal, commercial, or otherwise. The prohibition on said transfers also includes however is not limited to the encumbrance, pledging, assigning, usufruct, trading, brokering, hypothecation and/or gifting in cooperation with a fiduciary or any other third party, company, natural or legal individual, entity in any way shape or form.
 
-## ARBITRATION&#x20;
+## ARBITRATION
 
 18.1 All disputes which may arise between you and the Casino including their successors in title under general or special title as a result of these Terms and Conditions or as a result of further agreements and other acts in connection with these Terms and Conditions shall be settled exclusively by arbitration in Cyprus and in accordance with Cyprus Civil Procedure Rules.
