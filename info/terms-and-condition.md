@@ -46,6 +46,8 @@ Players from the following countries are not eligible to win any jackpots from j
 
 1.14 Players from Canada are not eligible to play games provided by NYX.
 
+1.15 Players from Russia, Ukraine are not eligible to play games provided by Betby, the sportsbook provider.&#x20;
+
 ## ELIGIBILITY TO USE Owl.Games’S SERVICES:&#x20;
 
 2.1 You may participate in any of the Games if and only if:
