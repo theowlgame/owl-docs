@@ -46,7 +46,7 @@ Players from the following countries are not eligible to win any jackpots from j
 
 1.14 Players from Canada are not eligible to play games provided by NYX.
 
-1.15 Players from Russia, Ukraine are not eligible to play games provided by Betby, the sportsbook provider.&#x20;
+1.15 Players from Russia, Ukraine, Kazakhstan are not eligible to play games provided by Betby, the sportsbook provider.&#x20;
 
 ## ELIGIBILITY TO USE Moonbet SERVICES:
 
