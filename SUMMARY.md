@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Owl Games & OwlDAO](README.md)
+* [About Owl Games & OwlDAO Casinos](README.md)
 * [Casino Partners](casino-partners.md)
 * [Indemnity](indemnity.md)
 
