@@ -1,8 +1,12 @@
-# About US
+# About XOCasino
 
-#### **Leading Crypto Casino Solution Web 3.0**
+#### **Crazybit: Leading Crypto Casino Solution Web 3.0**
 
-We aims to provide seamless, fun, profitable gaming experience on most EVM compatible networks, near, and terra networks.
+Crazybit aims to provide seamless, fun, profitable gaming experience on most EVM compatible networks, near, and terra networks.
 
 
+
+
+
+\{{ test \}}
 
