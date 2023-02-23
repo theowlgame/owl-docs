@@ -1,28 +1,28 @@
 # Terms and Condition
 
-## NOTICE TO RESIDENTS OF CHINA
+## NOTICE TO RESIDENTS OF CHINA&#x20;
 
-THE RIGHTS ARE NOT BEING OFFERED OR SOLD AND MAY NOT BE OFFERED OR SOLD, DIRECTLY OR INDIRECTLY, WITHIN THE PEOPLE’S REPUBLIC OF CHINA (FOR SUCH PURPOSES, NOT INCLUDING THE HONG KONG AND MACAU SPECIAL ADMINISTRATIVE REGIONS OR TAIWAN), EXCEPT AS PERMITTED BY THE SECURITIES AND OTHER LAWS AND REGULATIONS OF THE PEOPLE’S REPUBLIC OF CHINA.
+THE RIGHTS ARE NOT BEING OFFERED OR SOLD AND MAY NOT BE OFFERED OR SOLD, DIRECTLY OR INDIRECTLY, WITHIN THE PEOPLE’S REPUBLIC OF CHINA (FOR SUCH PURPOSES, NOT INCLUDING THE HONG KONG AND MACAU SPECIAL ADMINISTRATIVE REGIONS OR TAIWAN), EXCEPT AS PERMITTED BY THE SECURITIES AND OTHER LAWS AND REGULATIONS OF THE PEOPLE’S REPUBLIC OF CHINA.&#x20;
 
-## GENERAL NOTICE
+## GENERAL NOTICE&#x20;
 
 THIS SECURITY IS NOT BEING OFFERED OR DISTRIBUTED TO ANY RESIDENT OF OR ANY PERSON LOCATED OR DOMICILED WHERE SUCH OFFERING IS PROHIBITED, RESTRICTED OR UNAUTHORIZED IN ANY FORM OR MANNER WHETHER IN FULL OR IN PART UNDER THE LAWS, REGULATORY REQUIREMENTS OR RULES IN SUCH JURISDICTION.
 
 ## TERMS & CONDITIONS GENERAL
 
-1.1 This Casino is a crypto only casino that supports no fiat currency.
+&#x20;1.1 XOCasino is a crypto only casino that supports no fiat currency.
 
-1.2 These Terms and Conditions (“T\&C”) apply to the usage of the Games through this casino (“Website”) through related enabling internet, mobile or other platforms by you (“You” or “the Player”).
+1.2 These Terms and Conditions (“T\&C”) apply to the usage of the Games through XOCasino (“Website”) through related enabling internet, mobile or other platforms by you (“You” or “the Player”).
 
-1.3 These T\&C constitute a binding agreement between You and us.
+1.3 These T\&C constitute a binding agreement between You and XOCasino.
 
-1.4 These T\&C come into force as soon as you register an account, and by doing which you signify to this casino that you have read these T\&C and accept them. By using any of the Website you signify that you agree with these T\&C.
+1.4 These T\&C come into force as soon as you register an account, and by doing which you signify to XOCasino that you have read these T\&C and accept them. By using any of the Website you signify that you agree with these T\&C.
 
 1.5 You must read these T\&C carefully in their entirety before registering an account. If you do not agree with any provision of these T\&C you must not use or continue to use the Website.
 
 1.6 You fully understand and agree to be bound by the terms and conditions contained herein and as may be amended by Us from time to time.
 
-1.7  This casino reserves the right to modify and amend this Agreement at any time with or without notice.
+1.7 XOCasino reserves the right to modify and amend this Agreement at any time with or without notice.
 
 1.8 Rules and explanations in respect to the games provided separately on the Website are incorporated into these T\&C by reference.
 
@@ -46,7 +46,7 @@ Players from the following countries are not eligible to win any jackpots from j
 
 1.14 Players from Canada are not eligible to play games provided by NYX.
 
-## ELIGIBILITY TO USE Casino SERVICES:
+## ELIGIBILITY TO USE XOCasino SERVICES:&#x20;
 
 2.1 You may participate in any of the Games if and only if:
 
@@ -58,23 +58,23 @@ Players from the following countries are not eligible to win any jackpots from j
 
 ## YOUR MEMBER ACCOUNT
 
-3.1 In order for you to be able to place wagers using any of the Website, you must first register with this casino and open an account (“Member Account”).
+&#x20;3.1 In order for you to be able to place wagers using any of the Website, you must first register with XOCasino and open an account (“Member Account”).
 
-3.2 You are allowed to have only one Member Account. Only one Account for each household, IP, PC is allowed. If you attempt to open more than one Member Account, all accounts you try to open may be blocked or closed and any bets may be voided. Also any returns, deposits, winnings or bonuses which you have gained or accrued during such time as the Duplicate Account was active will be forfeited by you and may be reclaimed by us, and you will return to us on demand any such funds which have been withdrawn from the Duplicate Account. If you wish to open another account, you may do so by contacting the Manager. If a new account is opened, the old account will be closed. If you notice that you have more than one registered Member Account you must notify us immediately. Failure to do so may lead to your Member account being blocked for access.
+3.2 You are allowed to have only one Member Account. Only one Account for each household, IP, PC is allowed. If you attempt to open more than one Member Account, all accounts you try to open may be blocked or closed and any bets may be voided. Also any returns, deposits, winnings or bonuses which you have gained or accrued during such time as the Duplicate Account was active will be forfeited by you and may be reclaimed by us, and you will return to us on demand any such funds which have been withdrawn from the Duplicate Account. If you wish to open another account, you may do so by contacting the Manager at team@XOCasino.io. If a new account is opened, the old account will be closed. If you notice that you have more than one registered Member Account you must notify us immediately. Failure to do so may lead to your Member account being blocked for access.
 
-You warrant not to use any form of VPN or other methods or program fit to hide your IP or your state of origin. The usage of a VPN is only allowed with written consent from the support team. Users or customers found to use a VPN without the companies consent will be excluded from all services on the website, and all remaining funds will be frozen indefinitely. You acknowledge that you are solely responsible for all losses that might occur to you over your VPN usage without the companies consent, including but not limited to financial losses and the loss of your account on the website.
+You warrant not to use any form of VPN or other methods or program fit to hide your IP or your state of origin. The usage of a VPN is only allowed with written consent from the support team. Users or customers found to use a VPN without the companies consent will be excluded from all services on the website, and all remaining funds will be frozen indefinitely. You acknowledge that you are solely responsible for all losses that might occur to you over your VPN usage without the companies consent, including but not limited to financial losses and the loss of your account on the website.&#x20;
 
 3.3 You must enter all mandatory information requested into your registration form, including a valid e-mail address; if you do not enter a valid email address, we will be unable to help you recover any “forgotten passwords”. It is your sole responsibility to ensure that the information you provide is true, complete and correct.
 
-3.4 As part of the registration process You will have to choose Your username and password for Your login into the Website. It is Your sole and exclusive responsibility to ensure that Your login details are kept securely. You must not disclose Your login details to anyone.  this casino is not responsible for any abuse or misuse of Your Member Account by third parties due to Your disclosure, whether intentional or accidental, whether active or passive, of your login details to any third party.
+3.4 As part of the registration process You will have to choose Your username and password for Your login into the Website. It is Your sole and exclusive responsibility to ensure that Your login details are kept securely. You must not disclose Your login details to anyone. XOCasino is not responsible for any abuse or misuse of Your Member Account by third parties due to Your disclosure, whether intentional or accidental, whether active or passive, of your login details to any third party.
 
-3.5  This casino reserves the right to refuse to register an Account or close Your Account. However all virtual funds within Your Account will be returned and all contractual obligations already made honoured.
+3.5 XOCasino reserves the right to refuse to register an Account or close Your Account. However all virtual funds within Your Account will be returned and all contractual obligations already made honoured.
 
-3.6 This casino prohibits player collusion and do not allow any kind of robots and programmed devices to participate in game play. This casinoreserves the right to void any game play which results from the use of robots and/or programmed devices.
+3.6 XOCasino prohibits player collusion and do not allow any kind of robots and programmed devices to participate in game play. XOCasino reserves the right to void any game play which results from the use of robots and/or programmed devices.
 
-3.7 It's forbidden for players from United States of America, Greece, United Kingdom, Jersey, Gibraltar, Spain, France and its overseas territories (Guadeloupe, Martinique, French Guiana, Réunion, Mayotte, St. Martin, French Polynesia, Wallis and Futuna, New Caledonia), Netherlands, Sweden, Israel, Lithuania, Slovakia, Belgium, Switzerland, Dutch West Indies or Curacao to play at This casino. This includes both FIAT and Cryptocurrencies.
+3.7 It's forbidden for players from United States of America, Greece, United Kingdom, Jersey, Gibraltar, Spain, France and its overseas territories (Guadeloupe, Martinique, French Guiana, Réunion, Mayotte, St. Martin, French Polynesia, Wallis and Futuna, New Caledonia), Netherlands, Sweden, Israel, Lithuania, Slovakia, Belgium, Switzerland, Dutch West Indies or Curacao to play at XOCasino. This includes both FIAT and Cryptocurrencies.
 
-3.8 Upon requesting a self exclusion, This casino will immediately close that account and prevent the player to play on that particular account. It's the player's responsibility to notify This casino of any other accounts the player might have and promise not to open any other accounts. This casino will make reasonable efforts to try to prevent the opening of new accounts but it's the player's sole responsibility to make sure no other accounts are created. This casino cannot be held accountable for potential losses on other accounts.
+3.8 Upon requesting a self exclusion, XOCasino will immediately close that account and prevent the player to play on that particular account. It's the player's responsibility to notify XOCasino of any other accounts the player might have and promise not to open any other accounts. XOCasino will make reasonable efforts to try to prevent the opening of new accounts but it's the player's sole responsibility to make sure no other accounts are created. XOCasino cannot be held accountable for potential losses on other accounts.
 
 3.9 As a player, you have the opportunity to put a loss limit on your account (among other limits). To clarify the functionality of this limit, the loss is based on the deposit made by the player and not winnings attributed to the deposited amount. If a player for example deposits €50, has a loss limit of €10 and the player goes on and wins €1,000, the player can still lose more than €10 of the €1,000 balance as it's based on the initial deposit instead of the winnings.
 
@@ -86,13 +86,13 @@ You warrant not to use any form of VPN or other methods or program fit to hide y
 
 3.2 DEPOSITS INTO YOUR MEMBER ACCOUNT
 
-3.2.1 You may only participate in Games if you have sufficient Virtual Funds on Your Member Account for such participation. For the avoidance of doubt, Virtual Funds shall mean Bitcoins or any other currency. This casino will not grant any form of virtual credit whatsoever for participation in any of the Games.
+3.2.1 You may only participate in Games if you have sufficient Virtual Funds on Your Member Account for such participation. For the avoidance of doubt, Virtual Funds shall mean Bitcoins or any other currency. XOCasino will not grant any form of virtual credit whatsoever for participation in any of the Games.
 
-3.2.2 This casino can, under certain circumstances, credit a player’s account with so called “bonus”. The conditions for the crediting of the bonus (e.g. First Deposit Bonus) and the amount of the bonus is determined by This casino and set out on the website from time to time. For promotions that are currently running please follow this link: promotions. If an account contains both the Virtual Funds and bonus funds, the bonus funds will only be available for wagering once the existing Virtual Funds have been used. Before fulfilling the bonus turnover conditions if you transfer or withdraw the main deposit amount, bonus funds and all winnings from this bonus will be forfeited.
+3.2.2 XOCasino can, under certain circumstances, credit a player’s account with so called “bonus”. The conditions for the crediting of the bonus (e.g. First Deposit Bonus) and the amount of the bonus is determined by XOCasino and set out on the website from time to time. For promotions that are currently running please follow this link: promotions. If an account contains both the Virtual Funds and bonus funds, the bonus funds will only be available for wagering once the existing Virtual Funds have been used. Before fulfilling the bonus turnover conditions if you transfer or withdraw the main deposit amount, bonus funds and all winnings from this bonus will be forfeited.
 
 3.2.3 To deposit Virtual Funds into your Member Account, you can transfer Virtual Funds from your personal wallets or other Virtual Funds related accounts. The maximum amount of deposit depends on the payment method you decide to use and will appear when choosing the payment method.
 
-3.2.4 This casino is not a financial institution and thus should not be treated as such. Your account will not bear any interests.
+3.2.4 XOCasino is not a financial institution and thus should not be treated as such. Your account will not bear any interests.
 
 3.2.5 Deposited amounts are available on the Account within a reasonable amount of time after the confirmation of the deposit. Before a withdrawal can be made, all previous deposits need to be confirmed.
 
@@ -100,7 +100,7 @@ You warrant not to use any form of VPN or other methods or program fit to hide y
 
 3.2.7 It's the responsibility of the player to ensure that all documents as a part of the KYC process are genuine. Faked or fraudulent documents provided may result in a confiscation of deposits and potential winnings of the player.
 
-3.2.8 This casino is not an exchange and therefore does not execute any conversion between Bitcoin and any Fiat currency.
+3.2.8 XOCasino is not an exchange and therefore does not execute any conversion between Bitcoin and any Fiat currency.
 
 3.2.9 Kindly note that bonuses come with specific bonus terms and conditions ("Bonus Terms and Conditions"). These can be found here.
 
@@ -108,7 +108,7 @@ You warrant not to use any form of VPN or other methods or program fit to hide y
 
 3.2.11 Players from Norway, Turkey, Singapore, Argentina, Canada, Australia and Germany depositing via card will have the deposited amount being displayed on their bank statement in EUR. Additional conversion fees might be charged by your bank.
 
-3.2.12 You are able to opt out from receiving offers via emails from this casino. However, we still reserve the right to send you important information regarding your account, despite you being opted out from regular email send-outs.
+3.2.12 You are able to opt out from receiving offers via emails from XOCasino. However, we still reserve the right to send you important information regarding your account, despite you being opted out from regular email send-outs.
 
 3.2.13 When depositing using cryptocurrencies, kindly ensure you're depositing an amount greater than or equal to, the minimum deposit limit for that particular currency, as displayed on the deposit page of your account. Deposits below this limit cannot be processed by our payment processor and will not reach your account and nor can it be returned back to you.
 
@@ -116,31 +116,31 @@ You warrant not to use any form of VPN or other methods or program fit to hide y
 
 3.3 WITHDRAWALS FROM YOUR MEMBER ACCOUNT
 
-3.3.1 While This casino will endeavour to pay out withdrawals immediately, some withdrawals may take longer than others. This casino shall try to pay out withdrawals within 1 hour, however in some cases, withdrawals may take longer; this would clearly be stated when you choose a method of withdrawal.
+3.3.1 While XOCasino will endeavour to pay out withdrawals immediately, some withdrawals may take longer than others. XOCasino shall try to pay out withdrawals within 1 hour, however in some cases, withdrawals may take longer; this would clearly be stated when you choose a method of withdrawal.
 
-3.3.2 Bitcoin withdrawals will be made to your stated This casino wallet. To withdraw any Virtual Funds which have been deposited, we require the block chain to give at a minimum 1 confirmation of your last deposit, before a withdrawal can be made. If you deposit with a small mining fee, 1 confirmation can take up to 20 min.
+3.3.2 Bitcoin withdrawals will be made to your stated XOCasino wallet. To withdraw any Virtual Funds which have been deposited, we require the block chain to give at a minimum 1 confirmation of your last deposit, before a withdrawal can be made. If you deposit with a small mining fee, 1 confirmation can take up to 20 min.
 
 3.3.3 If we mistakenly credit your Member Account with winnings that do not belong to you, whether due to a technical error in the pay-tables, or human error or otherwise, the amount will remain our property and will be deducted from your Member Account. If you have withdrawn funds that do not belong to you prior to us becoming aware of the error, the mistakenly paid amount will (without prejudice to other remedies and actions that may be available at law) constitute a debt owed by you to us. In the event of an incorrect crediting, you are obliged to notify us immediately by email.
 
-3.3.4 You acknowledge that the Virtual Funds are consumed instantly and This casino do not provide for refunds or cancellation. This casino reserves the right to payout substantial wins in monthly installments.
+3.3.4 You acknowledge that the Virtual Funds are consumed instantly and XOCasino do not provide for refunds or cancellation. XOCasino reserves the right to payout substantial wins in monthly installments.
 
-3.3.5 This casino agents reserve the right to carry out additional verification procedures, if deemed necessary by the This casino payments team. Such verifications may include copies of a player’s passport, national Identity Card, copies of a player’s utility bills, and/or copies of the debit/credit cards used to deposit. This rule applies for both FIAT and Cryptocurrency players.
+3.3.5 XOCasino agents reserve the right to carry out additional verification procedures, if deemed necessary by the XOCasino payments team. Such verifications may include copies of a player’s passport, national Identity Card, copies of a player’s utility bills, and/or copies of the debit/credit cards used to deposit. This rule applies for both FIAT and Cryptocurrency players.
 
 3.3.6 In order to make a withdrawal, a player must play through active deposited amounts at least once prior to withdrawal. This procedure is in line with anti money laundering practices. The player is fully responsible for paying all fees and taxes applied to their winnings according to the laws of the jurisdiction of the player’s residence.
 
 3.3.7 The website supports payouts via Original Credit Transfer (OCT) from Visa and via Payment Transfer from Mastercard. Additional requirements are that the respective credit card is not a corporate credit card and the card is issued in a supported country. For Visa, the following countries are not supported: USA, New Zealand, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Singapore. For Mastercard, the following countries are supported: Andorra, Austria, Belgium, Cyprus, Czech Republic, Denmark, Estonia, France, Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Luxembourg, Malta, Monaco, Netherlands, Norway, San Marino, Slovakia, Slovenia, Spain, Switzerland, Turkey, and United Kingdom. Please note that even for supported countries the WEBSITE is not able to guarantee successful credit card payment processing in all cases, since banks issuing credit cards may block or reject such transactions at their own discretion. Please note that the internal operating currency of the website is Euro. If you transact in other currencies, the amount deducted from your credit card may be insignificantly higher than displayed at the time of transaction due to currency conversions on the side of your bank and/or website's payment processing system.
 
-3.3.8 In the unlikely event of a player depositing crypto currency funds to another crypto currency network address (such as but not limited to: sending BTC to a BCH address). This casino will not attempt to recover the amount unless it exceeds $5000. In such cases, a fee of 0.1 BTC will be charged in order to recover the lost funds to cover expenses to pursuit the recovery, however it's not a guarantee to get the funds recovered.
+3.3.8 In the unlikely event of a player depositing crypto currency funds to another crypto currency network address (such as but not limited to: sending BTC to a BCH address). XOCasino will not attempt to recover the amount unless it exceeds $5000. In such cases, a fee of 0.1 BTC will be charged in order to recover the lost funds to cover expenses to pursuit the recovery, however it's not a guarantee to get the funds recovered.
 
 Kindly note that you have to report the mis-sending of funds within 7 days of occurrence and that this whole procedure is in line with standard exchange practices. Furthermore, the retrieval of private keys for the bitcoin on their balance is not possible.
 
 3.3.9 Players withdrawing via bank transfer will have their funds sent in EUR. Additional conversion fees might be charged by your bank. All Bank Transfer payouts are in principle processed within three (3) banking days. Please mind that you will not be able to request a Bank Transfer for USD payouts.
 
-3.3.10 Upon a player winning a significant amount of money defined according to This casino own discretion, the winnings will be needed to be verified with the relevant game provider. This means the withdrawal may take longer than the 10 minute average.
+3.3.10 Upon a player winning a significant amount of money defined according to XOCasino own discretion, the winnings will be needed to be verified with the relevant game provider. This means the withdrawal may take longer than the 10 minute average.
 
 3.3.11 Players depositing in USD or CAD can only withdraw money via e-wallets such as EcoPayz, Interac, Instadebit, iDebit, Mifinity or Muchbetter. Please note a minimum deposit via these payment options as well as verification is required, to activate them for withdrawal.
 
-3.3.12 If you withdraw to your Web 3.0 wallet, we do not charge any withdrawal fee. You only need to pay for the network gas fee. If you withdraw to non Web 3.0 wallet, we will charge a flat-rate fee.
+3.3.12 If you withdraw to your Web 3.0 wallet, we do not charge any withdrawal fee. You only need to pay for the network gas fee. If you withdraw to non Web 3.0 wallet, we will charge a flat-rate fee.&#x20;
 
 3.3.13 We reserve the right to make a phone call to the number provided in your user account, which at our own discretion can be a necessary part of the KYC procedure. Withdrawals may be terminated until the account is fully verified. We will make reasonable efforts trying to contact you regarding the withdrawal of the funds, but if we are not able to reach you (by email or phone) in two (2) weeks as from the date of the request for withdrawal, account will be locked, since you have failed to pass the KYC procedure.
 
@@ -150,9 +150,9 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 3.4 CLOSING OF ACCOUNT
 
-3.4.1 You may close Your account by contacting customer support. This casino will return to You any and all funds from Your Member Account subject to the deduction of relevant withdrawal charges. The method of repayment will be at our absolute discretion.
+3.4.1 You may close Your account by contacting customer support. XOCasino will return to You any and all funds from Your Member Account subject to the deduction of relevant withdrawal charges. The method of repayment will be at our absolute discretion.
 
-3.4.2 This casino reserves the right to close Your Member Account and to refund to You the "Account balance", subject to the deduction of relevant withdrawal charges, at This casino absolute discretion and without any obligation to state a reason or give prior notice
+3.4.2 XOCasino reserves the right to close Your Member Account and to refund to You the "Account balance", subject to the deduction of relevant withdrawal charges, at XOCasino absolute discretion and without any obligation to state a reason or give prior notice
 
 3.4.3 Kindly note that withdrawals has to be made to the same method that you deposited with. If you for example deposited with BTC, the winnings from that deposit has to be sent back via BTC.
 
@@ -166,7 +166,7 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## YOUR OBLIGATIONS AS A PLAYER:
 
-4.1 You hereby declare and warrant that:
+&#x20;4.1 You hereby declare and warrant that:
 
 4.1.1 You are over 18 years of age or such higher minimum legal age of majority as stipulated if the jurisdiction of Your residence (e.g. Estonia – 21 years) and, under the laws applicable to You, legally allowed to participate in the Games offered on the Website.
 
@@ -174,13 +174,13 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 4.1.3 You participate in the Games on your own behalf and not on behalf of any other person;
 
-4.1.4 All information that You provide to This casino during the term of validity of this agreement is true, complete, and correct, and that You shall immediately notify This casino of any change of such information;
+4.1.4 All information that You provide to XOCasino during the term of validity of this agreement is true, complete, and correct, and that You shall immediately notify XOCasino of any change of such information;
 
-4.1.5 You are solely responsible for reporting and accounting for any taxes applicable to You under relevant laws for any winnings that You receive from This casino;
+4.1.5 You are solely responsible for reporting and accounting for any taxes applicable to You under relevant laws for any winnings that You receive from XOCasino;
 
 4.1.6 You understand that by participating in the Games you take the risk of losing Virtual Funds deposited into Your Member Account;
 
-4.1.7 You shall not be involved in any fraudulent, collusive, fixing or other unlawful activity in relation to Your or third parties’ participation in any of the Games and shall not use any software-assisted methods or techniques or hardware devices for Your participation in any of the Games. This casino hereby reserves the right to invalidate any wager in the event of such behaviour;
+4.1.7 You shall not be involved in any fraudulent, collusive, fixing or other unlawful activity in relation to Your or third parties’ participation in any of the Games and shall not use any software-assisted methods or techniques or hardware devices for Your participation in any of the Games. XOCasino hereby reserves the right to invalidate any wager in the event of such behaviour;
 
 4.1.8 You understand that Virtual Funds as Bitcoin are not considered a legal currency or tender and as such on the Website they are treated as virtual funds with no intrinsic value.
 
@@ -192,23 +192,23 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 4.3 Games played on Our site should be played in the same manner as games played in any other setting. This means that players should be courteous to each other and avoid rude or obscene comments.
 
-4.4 Some circumstances may arise where a wager is confirmed, or a payment is performed, by us in error. In all these cases This casino reserves the right to cancel all the wagers accepted containing such an error, or to correct the mistake made re-settling all the wagers at the correct prices/spreads/terms that should have been available at the time that the wager was placed in the absence of the error.
+4.4 Some circumstances may arise where a wager is confirmed, or a payment is performed, by us in error. In all these cases XOCasino reserves the right to cancel all the wagers accepted containing such an error, or to correct the mistake made re-settling all the wagers at the correct prices/spreads/terms that should have been available at the time that the wager was placed in the absence of the error.
 
-4.5 Should the user become aware of possible errors or incompleteness in the software, he/she agrees to refrain from taking advantage of them. Moreover, the user agrees to report any error or incompleteness immediately to This casino. Should the user fail to fulfil the obligations stated in this clause, This casino has a right to full compensation for all costs related to the error or incompleteness, including any costs incurred in association with the respective error/incompleteness and the failed notification by the user.
+4.5 Should the user become aware of possible errors or incompleteness in the software, he/she agrees to refrain from taking advantage of them. Moreover, the user agrees to report any error or incompleteness immediately to XOCasino. Should the user fail to fulfil the obligations stated in this clause, XOCasino has a right to full compensation for all costs related to the error or incompleteness, including any costs incurred in association with the respective error/incompleteness and the failed notification by the user.
 
-4.6 In the event a game is started but miscarries because of a failure of the system, This casino shall refund the amount wagered in the game to the User by crediting it to the User’s Account or, if the account no longer exists, by paying it to the User in an approved manner; and if the User has an accrued credit at the time the game miscarried, credit to the User’s Account the monetary value of the credit or, if the account no longer exists, pay it to the User in an approved manner.
+4.6 In the event a game is started but miscarries because of a failure of the system, XOCasino shall refund the amount wagered in the game to the User by crediting it to the User’s Account or, if the account no longer exists, by paying it to the User in an approved manner; and if the User has an accrued credit at the time the game miscarried, credit to the User’s Account the monetary value of the credit or, if the account no longer exists, pay it to the User in an approved manner.
 
-4.7 This casino reserves the right to reject or limit wagers. The user is not permitted to wager an amount exceeding his/her personal account. Wins are credited to the personal account of the user.
+4.7 XOCasino reserves the right to reject or limit wagers. The user is not permitted to wager an amount exceeding his/her personal account. Wins are credited to the personal account of the user.
 
-4.8 This casino reserves the right to retain payments, if suspicion or evidence exists of manipulation of the casino system. Criminal charges will be brought against any user or any other person(s), who has/have manipulated the casino system or attempted to do so. This casino reserves the right to terminate and/or, change any games or events being offered on the Website.
+4.8 XOCasino reserves the right to retain payments, if suspicion or evidence exists of manipulation of the casino system. Criminal charges will be brought against any user or any other person(s), who has/have manipulated the casino system or attempted to do so. XOCasino reserves the right to terminate and/or, change any games or events being offered on the Website.
 
 4.9 We reserve the right to require some verification in case of suspicious or fraudulent transactions.
 
-4.10 This casino reserves the right to declare a wager void partially or in full if This casino , at its own discretion, would deem it obvious that any of the following circumstances have occurred:
+4.10 XOCasino reserves the right to declare a wager void partially or in full if XOCasino, at its own discretion, would deem it obvious that any of the following circumstances have occurred:
 
 4.10.1 You, or people associated with you may directly or indirectly influence the outcome of an event, to obtain an unlawful advantage,
 
-4.10.2 You and or people associated with you are directly or indirectly avoiding the rules of This casino ,
+4.10.2 You and or people associated with you are directly or indirectly avoiding the rules of XOCasino,
 
 4.10.3 the result of an event has been directly or indirectly affected by criminal activity,
 
@@ -216,31 +216,31 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 4.10.5 due to an error, such as a mistake, misprint, technical error, force majeure or otherwise, wagers have been offered, placed and or accepted due to this error.
 
-4.10.6 If a player's deposit fee is too low and is flagged by blockchain or similar site as “not enough fee to relay” This casino reserve the right to confiscate the winnings if This casino at their own discretion deem the transaction and behavior of the player to be fraudulent in nature.
+4.10.6 If a player's deposit fee is too low and is flagged by blockchain or similar site as “not enough fee to relay” XOCasino reserve the right to confiscate the winnings if XOCasino at their own discretion deem the transaction and behavior of the player to be fraudulent in nature.
 
 ## PRIVACY POLICY
 
-5.1 You hereby acknowledge and accept that it is necessary for This casino to collect and otherwise use Your personal data in order to allow You access and use of the Website and participation in the Games.
+&#x20;5.1 You hereby acknowledge and accept that it is necessary for XOCasino to collect and otherwise use Your personal data in order to allow You access and use of the Website and participation in the Games.
 
-5.2 This casino hereby acknowledges that in collecting Your personal details as stated in the previous provision, We are bound by the Data Protection legislation. This casino will protect your personal information and respect your privacy in accordance with best business practices and applicable laws.
+5.2 XOCasino hereby acknowledges that in collecting Your personal details as stated in the previous provision, We are bound by the Data Protection legislation. XOCasino will protect your personal information and respect your privacy in accordance with best business practices and applicable laws.
 
-5.3 This casino will only use Your personal data to allow you to participate in the Games and to carry out operations relevant to Your participation in the Games. All members of the staff shall have access to Your personal data for the purpose of performing their duties.
+5.3 XOCasino will only use Your personal data to allow you to participate in the Games and to carry out operations relevant to Your participation in the Games. All members of the staff shall have access to Your personal data for the purpose of performing their duties.
 
 5.4 Your personal data will not be disclosed to third parties, unless such disclosure is necessary for processing of your requests in relation to Your participation in the Games. You hereby consent to such disclosures.
 
-5.5 As an individual you may exercise your right to access the data held about you by This casino by submitting your request in writing. Although all reasonable efforts will be made to keep your information updated, you are kindly requested to inform us of any change referring to the personal data held by This casino . In any case if you consider that certain information about you is inaccurate, you may request rectification of such data. You also have the right to request the blocking or erasure of data which has been processed unlawfully.
+5.5 As an individual you may exercise your right to access the data held about you by XOCasino by submitting your request in writing. Although all reasonable efforts will be made to keep your information updated, you are kindly requested to inform us of any change referring to the personal data held by XOCasino. In any case if you consider that certain information about you is inaccurate, you may request rectification of such data. You also have the right to request the blocking or erasure of data which has been processed unlawfully.
 
-5.6 In order to make Your visit to the Website more user-friendly, to keep track of visits to the Website and to improve the service, This casino collects a small piece of information sent from Your browser, called a cookie. You can, if you wish, turn off the collection of cookies (please refer to your browser instructions as to how to do this). You must note, however, that turning off cookies may restrict Your use of the Website.
+5.6 In order to make Your visit to the Website more user-friendly, to keep track of visits to the Website and to improve the service, XOCasino collects a small piece of information sent from Your browser, called a cookie. You can, if you wish, turn off the collection of cookies (please refer to your browser instructions as to how to do this). You must note, however, that turning off cookies may restrict Your use of the Website.
 
-5.7 If, while playing at This casino Casino, you win a sum regarded by This casino Management as worthy of publicity, you agree to make yourself available for any event of such nature arranged by This casino . While This casino protects all personal data entrusted to us, we reserve the right to use first names and the first initial of the last name in any This casino announcement about promotion results or on the website or lobby.
+5.7 If, while playing at XOCasino Casino, you win a sum regarded by XOCasino Management as worthy of publicity, you agree to make yourself available for any event of such nature arranged by XOCasino. While XOCasino protects all personal data entrusted to us, we reserve the right to use first names and the first initial of the last name in any XOCasino announcement about promotion results or on the website or lobby.
 
 5.8 We may also inform you of changes, new services and promotions We think that You may find interesting. If you do not wish to receive direct marketing data you may opt out of such service through the member account.
 
 ## COMPLAINTS
 
-6.1 You may contact our customer service according to the instructions located at the Website to give us any complaints regarding our services.
+&#x20;6.1 You may contact our customer service according to the instructions located at the Website to give us any complaints regarding our services.
 
-6.2 Complaints are handled in the support department and escalated in the organization of This casino in the case that support personnel do not solve the case immediately. The player shall be informed about the state of the complaint to a reasonable level.
+6.2 Complaints are handled in the support department and escalated in the organization of XOCasino in the case that support personnel do not solve the case immediately. The player shall be informed about the state of the complaint to a reasonable level.
 
 6.3 In the event of any dispute, you agree that the records of the server shall act as the final authority in determining the outcome of any claim.
 
@@ -254,9 +254,9 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## LIMITATION OF LIABILITY
 
-7.1 You enter the Website and participate in the Games at your own risk. The Website and the Games are provided without any warranty whatsoever, whether express or implied.
+&#x20;7.1 You enter the Website and participate in the Games at your own risk. The Website and the Games are provided without any warranty whatsoever, whether express or implied.
 
-7.2 Without prejudice to the generality of the preceding provision, This casino , its directors, employees, partners, service providers:
+7.2 Without prejudice to the generality of the preceding provision, XOCasino, its directors, employees, partners, service providers:
 
 7.2.1 do not warrant that the software or the Website is/are fit for their purpose;
 
@@ -266,21 +266,21 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 7.2.4 shall not be liable for any loss, costs, expenses or damages, whether direct, indirect, special, consequential, incidental or otherwise, arising in relation to Your use of the Website or Your participation in the Games.
 
-7.3 You hereby agree to fully indemnify and hold harmless This casino , its directors, employees, partners, and service providers for any cost, expense, loss, damages, claims and liabilities howsoever caused that may arise in relation to your use of the Website or participation in the Games.
+7.3 You hereby agree to fully indemnify and hold harmless XOCasino, its directors, employees, partners, and service providers for any cost, expense, loss, damages, claims and liabilities howsoever caused that may arise in relation to your use of the Website or participation in the Games.
 
-7.4 Nothing published by or on behalf of This casino constitutes solicitation or recommendation to enter into any security or investment. Neither content nor data published by This casino should be relied upon for investment, trading, or security purposes. Links to other sites do not constitute endorsement and should not be deemed as such, nor should such links be considered approval by This casino of the linked site, its owner, or its content. It is strongly advised that anyone perform independent research prior to making financial or investment decisions, along with seeking the advice of a qualified professional.
+7.4 Nothing published by or on behalf of XOCasino constitutes solicitation or recommendation to enter into any security or investment. Neither content nor data published by XOCasino should be relied upon for investment, trading, or security purposes. Links to other sites do not constitute endorsement and should not be deemed as such, nor should such links be considered approval by XOCasino of the linked site, its owner, or its content. It is strongly advised that anyone perform independent research prior to making financial or investment decisions, along with seeking the advice of a qualified professional.
 
 7.5 By accepting these Terms and Conditions you confirm your awareness of the fact that gambling may lead to losing money. The Casino is not liable for any possible financial damage arising from your use of the Website.
 
 ## BREACHES, PENALTIES AND TERMINATION
 
-8.1 If You breach any provision of these T\&C or This casino  has a reasonable ground to suspect that You have breached them, This casino reserves the right not to open, suspend, close Your Member Account, withhold payment of your winnings and apply such funds on account of any damages due by You.
+&#x20;8.1 If You breach any provision of these T\&C or XOCasino has a reasonable ground to suspect that You have breached them, XOCasino reserves the right not to open, suspend, close Your Member Account, withhold payment of your winnings and apply such funds on account of any damages due by You.
 
-8.2 You acknowledge that This casino shall be the final decision-maker of whether you have violated This casino's rules, terms or conditions in a manner that results in your suspension or permanent barring from participation in our site.
+8.2 You acknowledge that XOCasino shall be the final decision-maker of whether you have violated XOCasino’s rules, terms or conditions in a manner that results in your suspension or permanent barring from participation in our site.
 
 ## INTELLECTUAL PROPERTY RIGHTS
 
-9.1 All website design, text, graphics, music, sound, photographs, video, the selection and arrangement thereof, software compilations, underlying source code, software and all other material contained within the Website are subject to copyright and other proprietary rights which are either owned by us or used under license from third party rights owners. To the extent that any material contained on the Website may be downloaded or printed then such material may be downloaded to a single personal computer only and hard copy portions may be printed solely for your own personal and non-commercial use.
+&#x20;9.1 All website design, text, graphics, music, sound, photographs, video, the selection and arrangement thereof, software compilations, underlying source code, software and all other material contained within the Website are subject to copyright and other proprietary rights which are either owned by us or used under license from third party rights owners. To the extent that any material contained on the Website may be downloaded or printed then such material may be downloaded to a single personal computer only and hard copy portions may be printed solely for your own personal and non-commercial use.
 
 9.2 Under no circumstances shall the use of the Website grant to any user any interest in any intellectual property rights (for example copyright, know-how or trademarks) owned by us or by any third party whatsoever.
 
@@ -288,29 +288,29 @@ Kindly note that you have to report the mis-sending of funds within 7 days of oc
 
 ## SEVERABILITY
 
-10.1 If any provision of these T\&C is held to be illegal or unenforceable, such provision shall be severed from these T\&C and all other provisions shall remain in force unaffected by such severance.
+&#x20;10.1 If any provision of these T\&C is held to be illegal or unenforceable, such provision shall be severed from these T\&C and all other provisions shall remain in force unaffected by such severance.
 
 ## INACTIVE/DORMANT PLAYER ACCOUNTS
 
-11.1 This section applies for registered account only. If no transaction has been made to your player account at This casino in thirty months, your account will be deemed as dormant and we will return your balance back to you. We'll make reasonable efforts trying to contact you regarding the withdrawal of the funds, but if we are not able to reach you, the funds will be retained by This casino Casino as an admin fee.
+&#x20;11.1 This section applies for registered account only. If no transaction has been made to your player account at XOCasino in thirty months, your account will be deemed as dormant and we will return your balance back to you. We'll make reasonable efforts trying to contact you regarding the withdrawal of the funds, but if we are not able to reach you, the funds will be retained by XOCasino Casino as an admin fee.
 
-11.2 An inactive Account is a Player Account which a player has not logged into or logged out of for twelve consecutive months. If your Player Account is deemed to be inactive, This casino reserves the right to charge a monthly administrative fee of €10 or the equivalent in another currency (or the current balance of your Player Account, if less) as long as the balance of your Player Account remains positive. You authorize This casino to debit this fee from your Player Account on the beginning of the month following the day on which your Player Account is deemed inactive, and on the beginning of every subsequent month that your Player Account remains inactive. This casino will stop deducting the fee if the account balance is zero or if the account is re-activated.
+11.2 An inactive Account is a Player Account which a player has not logged into or logged out of for twelve consecutive months. If your Player Account is deemed to be inactive, XOCasino reserves the right to charge a monthly administrative fee of €10 or the equivalent in another currency (or the current balance of your Player Account, if less) as long as the balance of your Player Account remains positive. You authorize XOCasino to debit this fee from your Player Account on the beginning of the month following the day on which your Player Account is deemed inactive, and on the beginning of every subsequent month that your Player Account remains inactive. XOCasino will stop deducting the fee if the account balance is zero or if the account is re-activated.
 
 ## ASSIGNMENT
 
-12.1 This casino reserves the right to assign or otherwise lawfully transfer this Agreement. You shall not assign or otherwise transfer this Agreement.
+&#x20;12.1 XOCasino reserves the right to assign or otherwise lawfully transfer this Agreement. You shall not assign or otherwise transfer this Agreement.
 
 ## APPLICABLE LAW AND JURISDICTION
 
-13.1 The Terms and Conditions stipulated below are effective as of September 22nd, 2014. Before using the website This casino , please read Terms and Conditions carefully. The fact of using the website confirms your consent with the Terms and Conditions.
+&#x20;13.1 The Terms and Conditions stipulated below are effective as of September 22nd, 2014. Before using the website XOCasino, please read Terms and Conditions carefully. The fact of using the website confirms your consent with the Terms and Conditions.
 
-13.2 Do you have any questions regarding the terms and conditions? Do they sound very bureaucratic and confusing? They're not meant to, but if you feel that way, please contact our support heroes via live chat. They're available 24 hours a day, 7 days a week, even on Christmas Eve, so you might as well come and say hello!
+13.2 Do you have any questions regarding the terms and conditions? Do they sound very bureaucratic and confusing? They're not meant to, but if you feel that way, please contact our support heroes via live chat or team@XOCasino.io. They're available 24 hours a day, 7 days a week, even on Christmas Eve, so you might as well come and say hello!
 
-## ADVANTAGE PLAY
+## ADVANTAGE PLAY&#x20;
 
-14.1 Should the Casino become aware of any user who has accepted the bonus or a promotion with sole purpose of creating a positive expected value on bonus return by using known practices aimed at securing a cash out of said bonus or at any way try to take advantage of bonuses received by This casino , then This casino will enforce immediate confiscation of winnings and closure of the account with the right to withhold any further withdrawals. An example of advantage play would be delaying any game round in any game, including free spins features and bonus features, to a later time when you have no more wagering requirement and/or performing new deposit(s) while having free spins features or bonus features still available in a game, the Casino reserves the right to withhold any withdrawals and/or confiscate all winnings.
+14.1 Should the Casino become aware of any user who has accepted the bonus or a promotion with sole purpose of creating a positive expected value on bonus return by using known practices aimed at securing a cash out of said bonus or at any way try to take advantage of bonuses received by XOCasino, then XOCasino will enforce immediate confiscation of winnings and closure of the account with the right to withhold any further withdrawals. An example of advantage play would be delaying any game round in any game, including free spins features and bonus features, to a later time when you have no more wagering requirement and/or performing new deposit(s) while having free spins features or bonus features still available in a game, the Casino reserves the right to withhold any withdrawals and/or confiscate all winnings.
 
-## REFUND POLICY
+## REFUND POLICY&#x20;
 
 15.1 If you wish to request a refund, you need to do so within the first 24 hours of the transaction in question for it to be considered (or within 30 calendar days if you claim that another person has gained access to your account).
 
@@ -318,7 +318,7 @@ If you’ve made credit card deposits to your account, we reserve the right to p
 
 Prior to any amounts being processed, all bonuses and winnings in your balance will be removed prior to calculation of the refund amount. If it’s the case where any credit card purchases are deemed to carry a bigger than necessary risk for security or legal reasons, by your payment processor or the casino, we will initiate refunds of the transactions in questions back to the card, and notify the appropriate authorities and parties.
 
-## ANTI-FRAUD POLICY
+## ANTI-FRAUD POLICY&#x20;
 
 16.1 The Company has a strict anti-fraud policy and utilizes various anti-fraud tools and techniques. If the player is suspected of fraudulent actions including, but not limited to:
 
@@ -360,10 +360,10 @@ Prior to any amounts being processed, all bonuses and winnings in your balance w
 
 16.3.6 any other actions which may damage the Casino;
 
-## NON TRANSFERABILITY
+## NON TRANSFERABILITY&#x20;
 
 17.1 You can not assign, pledge or transfer ownership under any title whatsoever to claims arising from these Terms and Conditions, the use of the Website or participation in the Games against the Casino without consent of the Casino. This prohibition is designed as a non-transferability clause ex article 83 paragraph 2 of book 3 of the Civil Code and includes the transfer of any assets of value of any kind, including but not limited to ownership of accounts, winnings, deposits, bets, rights and/or claims in connection with these assets, legal, commercial, or otherwise. The prohibition on said transfers also includes however is not limited to the encumbrance, pledging, assigning, usufruct, trading, brokering, hypothecation and/or gifting in cooperation with a fiduciary or any other third party, company, natural or legal individual, entity in any way shape or form.
 
-## ARBITRATION
+## ARBITRATION&#x20;
 
 18.1 All disputes which may arise between you and the Casino including their successors in title under general or special title as a result of these Terms and Conditions or as a result of further agreements and other acts in connection with these Terms and Conditions shall be settled exclusively by arbitration in Cyprus and in accordance with Cyprus Civil Procedure Rules.

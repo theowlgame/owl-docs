@@ -6,7 +6,3 @@ We aims to provide seamless, fun, profitable gaming experience on most EVM compa
 
 
 
-
-
-\{{ test \}}
-
