@@ -2,9 +2,9 @@
 
 ## GENERAL
 
-&#x20;As a data controller, we have a legal obligation under gambling regulations to process personal data from players in order to allow them to participate in games and provide them with ancillary services. This Privacy Policy explains what personal data we collect from players, why we collect it and how we utilise it.
+As a data controller, we have a legal obligation under gambling regulations to process personal data from players in order to allow them to participate in games and provide them with ancillary services. This Privacy Policy explains what personal data we collect from players, why we collect it and how we utilise it.
 
-If you have any other questions regarding this Privacy Policy or protection of your data, please feel free to contact our Data Protection Officer at team@XOCasino.com.
+If you have any other questions regarding this Privacy Policy or protection of your data, please feel free to contact our Data Protection Officer by chat.
 
 By registering a Player Account with the Website you confirm your consent with this Privacy Policy. If you do not agree with the terms of this Privacy Policy and do not wish to provide us with the personal information we require, please do not use this website.
 
@@ -12,7 +12,7 @@ Please note that this Privacy Policy constitutes an agreement between you and th
 
 ## INFORMATION WE COLLECT
 
-&#x20;The Personal Information which we may request to use and process shall include, without limitation:
+The Personal Information which we may request to use and process shall include, without limitation:
 
 a) Any of the information that you provide to us when filling in the forms on our account registration pages, as well as any other data that you further submit via the Website or email (e.g. first and last name, date of birth, email address, phone number);
 
@@ -28,7 +28,7 @@ f) Survey participations or any other customer assessments that we may carry out
 
 ## HOW WE USE YOUR INFORMATION
 
-&#x20;We process the Personal Information we collect from you in order to deliver our services. In particular, we will use your data for the following purposes:
+We process the Personal Information we collect from you in order to deliver our services. In particular, we will use your data for the following purposes:
 
 a) Processing your bets and transactions. This includes your use of credit card and online payment systems;
 
@@ -50,7 +50,7 @@ i) Conducting research and statistical analysis of aggregated data.
 
 ## MARKETING COMMUNICATION
 
-&#x20;Unless you have elected not to receive promotional materials, we may use your Personal Information, including your email address and phone number, to send you marketing communications regarding products, services and promotions. This may include information about products and services from our business partners, such as casino game providers.
+Unless you have elected not to receive promotional materials, we may use your Personal Information, including your email address and phone number, to send you marketing communications regarding products, services and promotions. This may include information about products and services from our business partners, such as casino game providers.
 
 Whenever you decide to stop receiving such marketing and advertising material, you may opt out of this in your Player Account settings or by contacting our customer support at support@XOCasino.com
 
@@ -58,7 +58,7 @@ Additionally, note that by accepting any contest prize or winnings from us, you 
 
 ## OBTAINING PERSONAL INFORMATION
 
-&#x20;We shall not collect any Personal Information about you without your knowledge. We may, however, automatically collect certain data about you where you would have provided such information through the use of our services and through your interactions with us.
+We shall not collect any Personal Information about you without your knowledge. We may, however, automatically collect certain data about you where you would have provided such information through the use of our services and through your interactions with us.
 
 We may also lawfully receive certain Personal Information from online vendors and service providers, such as fraud prevention companies. In addition, we retain the right to engage the services of third-party providers to render technical support, so as to process your online transactions and source gaming content.
 
@@ -66,7 +66,7 @@ Please understand that we may be granted access to any information you may provi
 
 ## DATA RECIPIENTS
 
-&#x20;We may pass information that you have given us to other entities within our group of companies and to our business partners. These companies include our parent companies, their parent companies and all of the subsidiaries of these respective companies, as well as other companies with whom we carry out business and hold necessary agreements. Data processing of your information may be undertaken by the Company or by another entity in our group of companies, which may use a third party to fulfill such data processing needs.
+We may pass information that you have given us to other entities within our group of companies and to our business partners. These companies include our parent companies, their parent companies and all of the subsidiaries of these respective companies, as well as other companies with whom we carry out business and hold necessary agreements. Data processing of your information may be undertaken by the Company or by another entity in our group of companies, which may use a third party to fulfill such data processing needs.
 
 Employees of the Company, more specifically Data Protection Officer, Money Laundering Officer, Payments & Anti-Fraud analysts, Customer Support agents, Customer Retention team members, VIP player managers as well as other selected employees, shall also have access to your Personal Information for the purpose of executing their duties and providing you with assistance.
 
@@ -104,7 +104,7 @@ Please note our content may link to third party websites to provide relevant ref
 
 ## DATA RETENTION
 
-&#x20;As stated under our Terms and Conditions both, you and the Casino can decide to have your Player Account closed at any time. Following closure of your account, we will retain your personal data on record for as long as required by law. This data shall only be used should it be required by competent authorities in cases of enquiries regarding financial and fiscal records, fraud, money laundering or investigations into any other illegal activity.
+As stated under our Terms and Conditions both, you and the Casino can decide to have your Player Account closed at any time. Following closure of your account, we will retain your personal data on record for as long as required by law. This data shall only be used should it be required by competent authorities in cases of enquiries regarding financial and fiscal records, fraud, money laundering or investigations into any other illegal activity.
 
 We may also keep anonymized derivatives of your data to improve our content and marketing communications where no automated decision making is involved.
 
@@ -112,7 +112,7 @@ You are to note that due to anti-money laundering regulations in licensed gaming
 
 ## SECURITY OF YOUR DATA
 
-&#x20;We hereby acknowledge that in collecting and processing your Personal Information for the purposes of managing your Player Account, we are bound by strict legal provisions on the protection of personal data.
+We hereby acknowledge that in collecting and processing your Personal Information for the purposes of managing your Player Account, we are bound by strict legal provisions on the protection of personal data.
 
 Consequently, we endeavour to protect your personal information and respect your privacy in accordance with best business practices and applicable regulations. Being committed to providing secure services to players, and we will take all reasonable precautions to ensure that all the data that you have submitted to us remains safe.
 
@@ -120,7 +120,7 @@ Right to withdraw consent. In cases where we rely on your consent for the proces
 
 Player Accounts can only be accessed with the player’s unique ID and password. You may also set up two-factor authentication (2FA) as additional protection from unauthorised use of your account. You are responsible for keeping your login information confidential and making sure it cannot be accessed by another person.
 
-## CONTACTING US&#x20;
+## CONTACTING US
 
 You may always contact us in regards to this Policy should you wish to:
 

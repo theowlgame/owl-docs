@@ -1,10 +1,9 @@
 # Table of contents
 
-* [About XOCasino](README.md)
+* [About US](README.md)
 
 ## Info
 
-* [Supported Tokens](info/supported-tokens.md)
 * [Fairness & Certificates](info/certificates.md)
 * [Terms and Condition](info/terms-and-condition.md)
 * [Bonus Terms and Conditions](info/bonus-terms-and-conditions.md)
