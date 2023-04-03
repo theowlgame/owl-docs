@@ -22,7 +22,6 @@
 
 * [Earn by Playing](earn/earn-by-playing.md)
 * [VIP System](earn/vip-system.md)
-* [RakeBack](earn/rakeback.md)
 * [Free Daily Gaming Credit](earn/free-daily-gaming-credit.md)
 * [Earn by Staking](earn/earn-by-staking.md)
 
