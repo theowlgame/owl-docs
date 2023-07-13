@@ -1,11 +1,9 @@
 # About $OWL Token
 
-$OWL token is an important part of the $OWL community. The team pledges 0.2% \* Total Volume into $OWL to build the $OWL token ecosystem.&#x20;
+OWL token, a.k.a OwlDAO token, is the reward token of OwlDAO.&#x20;
 
-Currently the contribution are for buyback and sponsoring OWL staking pool each month.&#x20;
+Currently, community can earn OWL token for free by playing games, completing tasks, inviting friends on OwlDAO’s signature casino, owl.games.&#x20;
 
-$OWL is a cross chain token. Users can freely bridge $OWL token via OWL Game website.
+OwlDAO commits partial revenue each month to the OWL reward pool on owl.games. OwlDAO has committed more than $800k USD to help build the OWL ecosystem.
 
-$OWL token charges a 10% transfer fee, all the tax will be used for auto liquidity providing.
-
-With $OWL, the team hopes to create a thriving ecosystem for all our loyal partners and players.
+With $OWL, the team aims to create a thriving ecosystem for all our loyal partners and players.
