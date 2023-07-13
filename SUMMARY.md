@@ -29,7 +29,6 @@
 
 * [About $OWL Token](the-owl-token/about-usdowl-token.md)
 * [A Notes on Max Supply](the-owl-token/notes-max-supply.md)
-* [CEX vs DEX Trading](the-owl-token/cex-vs-dex-trading.md)
 
 ## Partnership
 
