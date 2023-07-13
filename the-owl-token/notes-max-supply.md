@@ -2,7 +2,7 @@
 
 ## Max Supply
 
-$OWL token is a BSC token, whose max supply is 500 million. It can be bridged back and forth to Polygon and Fantom.&#x20;
+$OWL token is a BSC token, whose max supply is 500 million. It can be bridged back and forth to Polygon and Fantom. Now Matic and Fantom version have been retired.&#x20;
 
 ## Previous Tokenomics
 
