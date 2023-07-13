@@ -6,7 +6,7 @@ i) The **Provider** (www.owldao.io, www.owl.games) is the owner of the Software 
 
 ii) The **Casino Partner** is an entity (project, community, DAO etc) that runs its own crypto business or activities.&#x20;
 
-iii) The Casino Partner has sought the services of the Provider in delivering support in the use of the Software and Operational Infrastructure via website with URL \[insert Casino Platform’s URL] (hereinafter  “Casino Platform”) and the Provider has agreed to deliver such Support Services. For the avoidance of doubt, Provider will not be responsible for delivering support for the Casino Partner's own website with URL \[insert Casino Partner's **** own URL];
+iii) The Casino Partner has sought the services of the Provider in delivering support in the use of the Software and Operational Infrastructure via website with URL \[insert Casino Platform’s URL] (hereinafter  “Casino Platform”) and the Provider has agreed to deliver such Support Services. For the avoidance of doubt, Provider will not be responsible for delivering support for the Casino Partner's own website with URL \[insert Casino Partner's own URL];
 
 iv) The Provider assumes the responsibility for providing Operational E-Gaming Infrastructure to the Casino Partner.&#x20;
 

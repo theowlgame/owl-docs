@@ -30,5 +30,5 @@ $$
 
 By convention, community tokens that meet a certain amount of liquidity will have their Price Factor at 1, while Frontier tokens, which are easily rugged and have wild prices, will have their Price Factor at 0.001.
 
-****
+
 

@@ -28,7 +28,6 @@
 ## The $OWL Token <a href="#the-owl-token" id="the-owl-token"></a>
 
 * [About $OWL Token](the-owl-token/about-usdowl-token.md)
-* [Tokenomics](the-owl-token/tokenomics.md)
 * [A Notes on Max Supply](the-owl-token/notes-max-supply.md)
 * [CEX vs DEX Trading](the-owl-token/cex-vs-dex-trading.md)
 

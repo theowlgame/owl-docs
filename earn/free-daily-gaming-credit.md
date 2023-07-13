@@ -1,8 +1,6 @@
 # Free Daily Gaming Credit
 
-In our telegram group, we do a draw daily to share $1,000 free gaming credit to 10 - 20 winners.
-
-Check it out at https://owl.games/airdrop
+In our discord server, we do a draw daily to share $1,000 free gaming credit to 10 - 20 winners.
 
 Bonus terms apply: https://docs.owl.games/info/bonus-terms-and-conditions
 
