@@ -17,6 +17,7 @@
 * [AML Policy](info/aml-policy.md)
 * [Self-Exclusion Terms and Condition](info/self-exclusion-terms-and-condition.md)
 * [Responsible Gambling](info/responsible-gambling.md)
+* [Charts](info/charts.md)
 
 ## Earn
 
