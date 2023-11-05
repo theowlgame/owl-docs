@@ -1,6 +1,8 @@
 # Sportsbook Terms and Conditions
 
-1. INTRODUCTION 1.1. This set of terms and conditions govern the use of the Sportsbook platform. When placing a bet with the Sportsbook platform, the Account Holder is therefore agreeing that the Account Holder has read, understood and will be adhering to these Terms and Conditions including the general Terms and Conditions at any time applicable to Sportsbook platform, click .
+1. INTRODUCTION&#x20;
+
+1.1. This set of terms and conditions govern the use of the Sportsbook platform. When placing a bet with the Sportsbook platform, the Account Holder is therefore agreeing that the Account Holder has read, understood and will be adhering to these Terms and Conditions including the general Terms and Conditions at any time applicable to Sportsbook platform, click .
 
 1.2. The use of this Sportsbook platform is subject to the regulations imposed by the (licence).
 
