@@ -11,6 +11,7 @@
   * [Default Token Setup](info/supported-tokens/default-token-setup.md)
 * [Fairness & Certificates](info/certificates.md)
 * [Terms and Condition](info/terms-and-condition.md)
+* [Sportsbook Terms & Conditions](info/sportsbook-terms-and-conditions.md)
 * [Affiliate Program Terms & Conditions](info/affiliate-program-terms-and-conditions.md)
 * [Bonus Terms and Conditions](info/bonus-terms-and-conditions.md)
 * [Privacy Policy](info/privacy-policy.md)
