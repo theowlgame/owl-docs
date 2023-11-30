@@ -1,8 +1,6 @@
 # Fairness & Certificates
 
-XOCasino only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.&#x20;
-
-&#x20;
+We only works with prestigious gaming providers such as Evolution, MicroGaming, Pragmatic Play, which they guarantee fairness of the games provided.
 
 {% file src="../.gitbook/assets/Evolution group ISO 27001 2021-01.pdf" %}
 Evolution Group Audit Report
